@@ -1,3 +1,11 @@
+> **Maintained source:** Current application code, containers and deployment examples are in [SONOFGOD. / Kubernetes Demo](https://github.com/tommyshamamba/SONOFGOD./tree/main/portfolio-projects/kubernetes-demo).
+>
+> Start with the [current setup instructions](https://github.com/tommyshamamba/SONOFGOD./tree/main/portfolio-projects/kubernetes-demo), [local demo guide](https://github.com/tommyshamamba/SONOFGOD./blob/main/docs/LOCAL_DEMOS.md) and [verification results](https://github.com/tommyshamamba/SONOFGOD./blob/main/docs/VERIFICATION.md). Local and CI checks do not establish a deployed Kubernetes cluster.
+>
+> The original README below is retained for historical context; use the maintained source for current setup and behavior.
+
+---
+
 # Kubernetes Demo Project
 
 A practical microservices application demonstrating key Kubernetes concepts including Deployments, Services, ConfigMaps, Secrets, and Horizontal Pod Autoscaling.
