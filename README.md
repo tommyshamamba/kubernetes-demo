@@ -1,6 +1,6 @@
-> **Maintained source:** Current application code, containers and deployment examples are in [SONOFGOD. / Kubernetes Demo](https://github.com/tommyshamamba/SONOFGOD./tree/main/portfolio-projects/kubernetes-demo).
+> **Maintained source:** Current application code, containers and deployment examples are in [platform-engineering-portfolio / Kubernetes Demo](https://github.com/tommyshamamba/platform-engineering-portfolio/tree/main/portfolio-projects/kubernetes-demo).
 >
-> Start with the [current setup instructions](https://github.com/tommyshamamba/SONOFGOD./tree/main/portfolio-projects/kubernetes-demo), [local demo guide](https://github.com/tommyshamamba/SONOFGOD./blob/main/docs/LOCAL_DEMOS.md) and [verification results](https://github.com/tommyshamamba/SONOFGOD./blob/main/docs/VERIFICATION.md). Local and CI checks do not establish a deployed Kubernetes cluster.
+> Start with the [current setup instructions](https://github.com/tommyshamamba/platform-engineering-portfolio/tree/main/portfolio-projects/kubernetes-demo), [local demo guide](https://github.com/tommyshamamba/platform-engineering-portfolio/blob/main/docs/LOCAL_DEMOS.md) and [verification results](https://github.com/tommyshamamba/platform-engineering-portfolio/blob/main/docs/VERIFICATION.md). Local and CI checks do not establish a deployed Kubernetes cluster.
 >
 > The original README below is retained for historical context; use the maintained source for current setup and behavior.
 
